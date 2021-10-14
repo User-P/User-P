@@ -55,7 +55,7 @@ I have excellent coding skills as well as the ability to turn requirements into 
 
 ### Collaborations on GitHub
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=B0nifaci0&repo=nailspotv2&theme=gruvbox)](https://github.com/B0nifaci0/nailpotv2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=B0nifaci0&repo=nailspotv2&theme=gruvbox)](https://github.com/B0nifaci0/nailspotv2)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=B0nifaci0&repo=Nailux-SYS&theme=gruvbox)](https://github.com/B0nifaci0/Nailux-SYS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=B0nifaci0&repo=sinvj.online&theme=gruvbox)](https://github.com/B0nifaci0/sinvj.online) -->
