@@ -1,10 +1,12 @@
 <!-- ### Hi there 👋 -->
 
 <!--
+**User-P/User-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... React Native
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -45,13 +47,18 @@ I have excellent coding skills as well as the ability to turn requirements into 
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=User-P&show_icons=true&count_private=true)](https://github.com/User-P)
+[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=User-P&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/User-P)
 
-### Github Repos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-P&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=User-P&repo=nailspot&show_owner=true)](https://github.com/B0nifaci0/nailspot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=User-P&repo=Foods-Ecommerce&show_owner=true)](https://github.com/User-P/Foods-Ecommerce)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=User-P)](https://github.com/User-P/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?User-P=willianrod&layout=compact&theme=gruvbox))](https://github.com/anuraghazra/github-readme-stats)
+
+### Collaborations on GitHub
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=B0nifaci0&repo=nailspotv2&theme=gruvbox)](https://github.com/B0nifaci0/nailpotv2)
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=B0nifaci0&repo=Nailux-SYS&theme=gruvbox)](https://github.com/B0nifaci0/Nailux-SYS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=B0nifaci0&repo=sinvj.online&theme=gruvbox)](https://github.com/B0nifaci0/sinvj.online) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
